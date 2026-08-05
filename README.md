@@ -34,7 +34,6 @@ Brain-Tumor-MRI-Classification/
 ├── assets/            # Sample Grad-CAM heatmaps, GUI screenshots, and media used in this README
 └── README.md          # This file
 
-
 ---
 
 ## 📜 License
