@@ -4,7 +4,6 @@
   <h4> ARAS Neura Academy </h4>
   <p>
     <strong>Instructors:</strong> <a href="https://www.linkedin.com/in/mjahmadi/">Mohammad Javad Ahmadi</a>
-  </p>
 </div>
 
 ## 📝 Project Title
