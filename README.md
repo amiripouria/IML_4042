@@ -26,6 +26,14 @@ This project implements an intelligent deep learning-based classification system
 
 ---
 
+## 📂 Repository Structure
+```text
+Brain-Tumor-MRI-Classification/
+├── src/               # Source code for algorithms, training pipelines, and main scripts
+├── docs/              # Academic reports, ROC-AUC plots, and confusion matrices
+├── assets/            # Sample Grad-CAM heatmaps, GUI screenshots, and media used in this README
+└── README.md          # This file
+---
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
